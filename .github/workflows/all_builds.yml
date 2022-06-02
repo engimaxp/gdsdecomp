@@ -21,6 +21,7 @@ on:
 
 # Global Settings
 # SCONS_CACHE for windows must be set in the build environment
+# trigger
 env:
   GODOT_BASE_BRANCH: master
   GODOT_MAIN_SYNC_REF: ff75a49227d8d81f99b728fc89b1e4e6e79ed5be
